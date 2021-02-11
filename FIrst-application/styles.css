@@ -1,21 +1,32 @@
 
 body{
-background-image: url(/FIrst-application/Images/smokedforest.jpg);
-background-repeat: no-repeat;
-background-size: cover;
+    font-family: 'Merienda',;
 margin: 0px;
 
 } header{
-    background-color: transparent;
-    padding: 35px;
-    text-align: right;
-
+    background-color: darkgreen;
+    padding: 5px;
+    color: whitesmoke;
+    display: flex;
+}
+nav{
+margin-left: 600px;    padding: 30px;
 }
 a{
-    margin: 40px;
-    border: 2px solid black;
+    margin: 20px;
+    border: 2px solid rgb(250, 240, 240);
     text-decoration: none;
     padding: 5px 10px;
     border-radius: 5px;
-    color: rgb(15, 14, 14);
+    color: rgb(211, 202, 202);
+    box-shadow: 5px 5px  15px black;
+}
+main{
+   
+}
+article{
+   
+}
+section{
+    text-align: right;
 }
