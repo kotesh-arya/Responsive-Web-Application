@@ -10,7 +10,8 @@ margin: 0px;
     display: flex;
 }
 nav{
-margin-left: 600px;    padding: 30px;
+margin-left: 600px; 
+   padding: 30px;
 }
 a{
     margin: 20px;
@@ -21,12 +22,7 @@ a{
     color: rgb(211, 202, 202);
     box-shadow: 5px 5px  15px black;
 }
-main{
-   
-}
-article{
-   
-}
+
 section{
     text-align: right;
 }
