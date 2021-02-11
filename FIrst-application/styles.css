@@ -1,0 +1,21 @@
+
+body{
+background-image: url(/FIrst-application/Images/smokedforest.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+margin: 0px;
+
+} header{
+    background-color: transparent;
+    padding: 35px;
+    text-align: right;
+
+}
+a{
+    margin: 40px;
+    border: 2px solid black;
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: rgb(15, 14, 14);
+}
