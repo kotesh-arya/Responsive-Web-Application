@@ -1,7 +1,10 @@
+*{
+    box-sizing: border-box;
+        margin: 0px;
 
+}
 body{
     font-family: 'Rajdhani', sans-serif;
-    margin: 0px;
 
 } header{
     background-color: transparent;
@@ -10,14 +13,41 @@ body{
     display: flex;
     justify-content: space-between;
 }
+
+h1{
+    margin: 0px;
+}
 a{
     color: rgb(32, 209, 62);
     text-decoration: none;
-    padding: 40px;
+    padding: 15px;
+    font-size: 20px;
 }
+.container{
+    min-width: 360px;
+    padding:10px;
+    margin: 10px;
+}
+
 .first{
     align-self: center;
+    padding: 3px;
 }
 .second{
     align-self: center;
+    padding: 45px;
+
+}
+.main-container{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.main-content{
+    align-self: center;
+    padding: 40px;
+    width: 1100px;
+}
+.main-image{
+    margin: 2px;
 }
